@@ -1,0 +1,1 @@
+randomizer_draw_gui();

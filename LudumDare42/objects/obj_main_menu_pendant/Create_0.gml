@@ -1,0 +1,13 @@
+scale_direction = 1;
+scale = 4;
+min_scale = 3.5;
+max_scale = 4.5;
+rotation_direction = 1;
+rotation = 0;
+min_rotation = -45;
+max_rotation = 45;
+rotation_counter = 0;
+scale_counter = 0;
+image_xscale = scale;
+image_yscale = scale;
+image_angle = rotation;
