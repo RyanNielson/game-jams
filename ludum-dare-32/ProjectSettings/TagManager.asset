@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Track
+  - Track1
+  - Track2
+  - Track3
+  - Track4
+  - Track1Slider
+  - Track2Slider
+  - Track3Slider
+  - Track4Slider
+  - GameOverPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4272076545
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bushes
+    uniqueID: 18326011
+    locked: 0
+  - name: Foreground
+    uniqueID: 4081996977
+    locked: 0
+  - name: Signs
+    uniqueID: 460641645
+    locked: 0

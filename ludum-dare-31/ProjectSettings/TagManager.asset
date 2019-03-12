@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - ViewCamera
+  - Projectile
+  - ViewQuad
+  - BackgroundMusicPlayer
+  - CursorCanvas
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: Player
+  User Layer 9: PlayerProjectile
+  User Layer 10: Enemies
+  User Layer 11: Door
+  User Layer 12: EnemyProjectile
+  User Layer 13: Fire
+  User Layer 14: ViewLayer
+  User Layer 15: 
+  User Layer 16: 
+  User Layer 17: 
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: 
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    userID: 5
+    uniqueID: 108491937
+    locked: 0
+  - name: AboveGround
+    userID: 6
+    uniqueID: 2421157659
+    locked: 0
+  - name: Walls
+    userID: 7
+    uniqueID: 1321055023
+    locked: 0
+  - name: BelowCharacters
+    userID: 1
+    uniqueID: 1569213497
+    locked: 0
+  - name: Characters
+    userID: 3
+    uniqueID: 1267649563
+    locked: 0
+  - name: Projectiles
+    userID: 10
+    uniqueID: 3952964223
+    locked: 0
+  - name: MuzzleFlash
+    userID: 9
+    uniqueID: 2607030089
+    locked: 0
+  - name: AboveCharacters
+    userID: 2
+    uniqueID: 825346579
+    locked: 0
+  - name: BelowUI
+    userID: 8
+    uniqueID: 3585507997
+    locked: 0
+  - name: UI
+    userID: 4
+    uniqueID: 1245403621
+    locked: 0
